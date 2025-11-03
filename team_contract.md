@@ -9,15 +9,15 @@ A Team Contract is a document prepared by each team prior to starting work on gr
 ### A. Team Structure:
 
 1. **Leadership structure**:
-	Casey, Ethan, Hayden, Elle
+	Casey, Hayden, Ethan, Elle
 2. **Decision-making policy** 
 	Majority vote and ties decided by rock paper scissor
 3. **Who is the team Recorder/Documentation Manager/Maintainer of all required turn-ins?**
 	Elle
 4. **Day, time, and place for regular team meetings:**
-	Scheduled as needed via group chat
+	Scheduled as needed via group chat usually a few days before
 5. **Usual method of communication** 
-	Group chat 
+	Group chat on Snapchat
 
 ### B. Team Procedures:
 
@@ -56,6 +56,7 @@ A Team Contract is a document prepared by each team prior to starting work on gr
 ### E. Consequences of breach of contract:
 
 What procedures and penalties do you wish to implement in the case of "slackers" or team members who deviate from your Team Contract? You basically have two options here: 1.) No Peer Evaluation or 2.) Peer Evaluation. Either option is acceptable to me, but I strongly advise you implement Peer Evaluation so that you have a mechanism in place if problems arise.
+	If its a recurring issue and the group has already mentioned it to the person then it will count as points of. But the person must be aware that they have been given multiple warnings before points off on the 	peer evaluation
 
 1. **Peer Evaluation**: 
 	Our team will conduct peer evaluation as part of this project. Discuss group norms for handling peer evaluations and state them here. 
@@ -63,4 +64,6 @@ What procedures and penalties do you wish to implement in the case of "slackers"
 ### F. Changes to contract:
 You cannot change any aspect of the team contract, particularly the "Procedures" section, once the signed contract has been turned in to me. Therefore, be VERY SPECIFIC on the Procedures section and spend some time thinking about this section. The only way I will accept a change to your Team Contract is if ALL members of your team sign and date a written amendment to your initial agreement.
 
+
 Casey 10/03/25
+Ethan 10/03/25 3:40 PM
