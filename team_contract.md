@@ -67,3 +67,4 @@ You cannot change any aspect of the team contract, particularly the "Procedures"
 
 Casey 10/03/25
 Ethan 10/03/25 3:40 PM
+Elle 10/03/25 3:42 PM
