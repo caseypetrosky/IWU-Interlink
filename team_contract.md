@@ -4,44 +4,54 @@ https://web.archive.org/web/20170829111634/https://www.cc.gatech.edu/~simpkins/t
 
 A Team Contract is a document prepared by each team prior to starting work on group projects. Students should be held accountable and responsible for their own actions. Students will develop their own "rules of engagement" through the development of a Team Contract. This contract provides an opportunity for your group to specify preferred methods of communication, action plans, meeting schedules, goals, and consequences of actions (or inactions) of group members. The contract should be developed and signed **BEFORE** starting the actual course project. For the Team Contract to be valid, provide the signed and dated original contract to me by the specified deadline on your course schedule. Give a photocopy of the original to each group member for their records. This document is more for your group than it is for me, so feel free to tailor it to your group's needs.
 
-## Project Team Name:
+## Project Team Name: Cheese - IWU Interlink
 
 ### A. Team Structure:
 
 1. **Leadership structure**:
-	Leader rotates weekly, specify rotation here.
-2. **Decision-making policy** (by consensus? by majority vote? how will tie votes be handled?):
+	Casey, Ethan, Hayden, Elle
+2. **Decision-making policy** 
+	Majority vote and ties decided by rock paper scissor
 3. **Who is the team Recorder/Documentation Manager/Maintainer of all required turn-ins?**
+	Elle
 4. **Day, time, and place for regular team meetings:**
-5. **Usual method of communication** (e.g., email, cell phone, chat, in person):
-
-| Team Member Name | E-Mail | Telephone/Other Contact Info |
-|------------------|--------|------------------------------|
-|                  |        |                              |
-|                  |        |                              |
-|                  |        |                              |
-|                  |        |                              |
-|                  |        |                              |
-
+	Scheduled as needed via group chat
+5. **Usual method of communication** 
+	Group chat 
 
 ### B. Team Procedures:
 
-1. **Method for setting and following meeting agendas** (Who will set each agenda? When? How will team members be notified/reminded? Who will be responsible for the team following the agenda during a team meeting?):
-2. **Method of record keeping** (Who will be responsible for recording and disseminating minutes? How and when will the minutes be disseminated? Where will all agendas and minutes be stored?):
-3. **Procedures in the absence of a team member** (will the team meet with one member absent, or must all members be present?):
+1. **Method for setting and following meeting agendas** 
+	Leader of that week will set agenda and lead in meeting. Leader will notify team members via group chat before meeting. Leader of that week will be responsibile for making sure the agenda is followed.
+
+2. **Procedures in the absence of a team member** 
+	Communnicated via group chat ahead of time or joining via zoom.
+
+3. **Usual meeting location** 
+	In usual classroom, or if occuppied then the library.
+
+4. **Usual Meeeting times**
+	Decide via the when2meet link in group chat.
 
 ### C. Team Participation:
 
 1. **Strategies to ensure cooperation and equal distribution of tasks:**
+	Invovle the whole team in task distribution and assign tasks based on each member's strengths.
 2. **Strategies for encouraging/including ideas from all team members** (team maintenance):
+	Encourage open discussions and ensure everyone has a chance to mention new ideas each meeting.
 3. **Strategies for keeping on task** (task maintenance):
+	Peer accountability.
 
 ### D. Personal Accountability:
 
 1. **Expected individual attendance, punctuality, and participation at all team meetings:**
+	Attend all meetings unless communicated ahead of time, and actively participate in team meetings, describing what you have accomplished and what you're still working on.
 2. **Expected level of responsibility for fulfilling team assignments, timelines, and deadlines:**
+	Complete assign tasks on time but if nescessary communicate ahead of time if you're struggling to meet a deadline and how the team can help.
 3. **Expected level of communication with other team members:**
+	Any set backs or changes in timeline, must be communicated to the team as soon as possible. Otherwise, check in with the team regularly to provide updates on your progress.
 4. **Expected level of commitment to team decisions and tasks.**
+	Stay committed to team decisions and tasks, even if you disagree with them. Voice any concerns during team meetings, but once a decision is made, stick with it, barring any major issues not previously discussed.
 
 ### E. Consequences of breach of contract:
 
@@ -53,3 +63,4 @@ What procedures and penalties do you wish to implement in the case of "slackers"
 ### F. Changes to contract:
 You cannot change any aspect of the team contract, particularly the "Procedures" section, once the signed contract has been turned in to me. Therefore, be VERY SPECIFIC on the Procedures section and spend some time thinking about this section. The only way I will accept a change to your Team Contract is if ALL members of your team sign and date a written amendment to your initial agreement.
 
+Casey 10/03/25
